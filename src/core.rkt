@@ -11,6 +11,7 @@
          make-stack-policy-path
          make-aws-cli-arguments
          update-or-create-stack
+         stack-outputs
          )
 
 #|filepath functions|#
